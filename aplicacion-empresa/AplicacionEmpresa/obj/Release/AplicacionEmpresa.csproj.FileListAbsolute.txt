@@ -12,3 +12,6 @@ C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Release\CapaDatos.dll
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Release\CapaNegocio.pdb
 C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Release\CapaDatos.pdb
+C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Release\AplicacionEmpresa.exe.config
+C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.exe
+C:\Users\HernánMartín\Documents\GitHub\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Release\AplicacionEmpresa.pdb
